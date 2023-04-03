@@ -7,7 +7,7 @@
 ![microservice app](sockshop.jpg)
 
 1. Deployment Snapshots
-![Deployment](all_deployments.jpg)
+![Deployment](deployment.jpg)
 
 1. Kubernetes Cluster Pipeline
 ![eks](eks_pipeline.jpg)
