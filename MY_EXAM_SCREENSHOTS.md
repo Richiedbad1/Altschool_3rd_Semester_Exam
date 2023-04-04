@@ -24,7 +24,7 @@
 ![loadbalancer](app_lb.jpg)
 
 ## Microservice Loadbalancer
-![sockshop svc](sockshop##jpg)
+![sockshop1](sockshop##jpg)
 
 ## Prometheus Snapshot
 ![prometheus]()
