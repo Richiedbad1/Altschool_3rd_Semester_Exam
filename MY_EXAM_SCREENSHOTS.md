@@ -1,53 +1,53 @@
 # Altschool Third Semester Examination Screenshots
 
-1. Custom App
+## Custom App
 ![custom app](voting.jpg)
 
-1. Microservice App
+## Microservice App
 ![microservice app](sockshop.jpg)
 
-1. Deployment Snapshots
+## Deployment Snapshots
 ![Deployment](deployment.jpg)
 
-1. Kubernetes Cluster Pipeline
+## Kubernetes Cluster Pipeline
 ![eks](eks_pipeline.jpg)
 ![eks2](eks_pipeline_2.jpg)
 
-1. Custom App Pipeline
+## Custom App Pipeline
 ![apps](deploy_apps_pipeline.jpg)
-![apps1](deploy_apps_2_pipeline.jpg)
+![apps##(deploy_apps_2_pipeline.jpg)
 
-1. Running Services on Kubernetes Cluster
+## Running Services on Kubernetes Cluster
 ![Namspaces](namespaces.jpg)
 
-1. Custom App loadbalancer
+## Custom App loadbalancer
 ![loadbalancer](app_lb.jpg)
 
-1. Microservice Loadbalancer
-![sockshop svc](sockshop1.jpg)
+## Microservice Loadbalancer
+![sockshop svc](sockshop##jpg)
 
-1. Prometheus Snapshot
+## Prometheus Snapshot
 ![prometheus]()
 
-1. AWS EKS Cluster
+## AWS EKS Cluster
 ![eks](eks.jpg)
 ![eks2](eks2.jpg)
 
-1. Pods
+## Pods
 ![pods](pods.jpg)
 
-1. Servers deployed in AWS by Terraform
+## Servers deployed in AWS by Terraform
 ![servers](servers.jpg)
 
-1. Route 53
+## Route 53
 ![route53](route.jpg)
 ![route](route53.jpg)
 
-1. Jenkins Server
+## Jenkins Server
 ![jenkins](jenkins.jpg)
 
-1. Terraform Apply Snapshots
-![1](console.jpg)
+## Terraform Apply Snapshots
+![##(console.jpg)
 ![2](console2.jpg)
 ![3](console3.jpg)
 ![4](console4.jpg)
@@ -55,7 +55,7 @@
 ![6](console6.jpg)
 ![7](console7.jpg)
 
-1. Billing Snapshot
+## Billing Snapshot
 ![billing](billing.jpg)
 ![billings](billing2.jpg)
 
